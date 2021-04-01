@@ -1,17 +1,18 @@
-## Hello interweb
+## Hello Interweb
 
 Welcome to this terrible website. It has been made by the one and only Sam. I will be adding some random junk in the future.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a dumbass that makes terrible programs the only work about 20% of the time. I have a yube of the tube channel though if
+you would like to see it click [Here](https://www.youtube.com/channel/UCQxJot0hoe2tS5yyt5H28qA). That's about all you need to
+know about me.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Projects.
 
-### Jekyll Themes
+At the moment I'm working on a shitty survival game on Roblox as well as a Garfield battle royale in unity. But I will most likely
+just do what I always do and start a project without ever finishing is.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amsam1234/amsam1234.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you would like to get in contact with me to bad, I don't trust anyone on the internet.
