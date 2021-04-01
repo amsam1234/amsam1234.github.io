@@ -1,6 +1,6 @@
 ## Hello interweb
 
-You can use the [editor on GitHub](https://github.com/amsam1234/amsam1234.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to this terrible website. It has been made by the one and only Sam.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
