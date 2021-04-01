@@ -15,4 +15,4 @@ just do what I always do and start a project without ever finishing is.
 
 ### Contact
 
-If you would like to get in contact with me to bad, I don't trust anyone on the internet.
+If you would like to get in contact with me, to bad. I don't trust anyone on the internet.
