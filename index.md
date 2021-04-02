@@ -1,7 +1,4 @@
 ## Hello Interweb
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJm1YSkz_B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Welcome to this terrible website. It has been made by the one and only Sam. I will be adding some random junk in the future.
 
 ## About Me
@@ -15,10 +12,10 @@ know about me.
 At the moment I'm working on a shitty survival game on Roblox as well as a Garfield battle royale in unity. But I will most likely
 just do what I always do and start a project without ever finishing is.
 
+## Featured Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJm1YSkz_B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Contact
 
-If you would like to get in contact with me, to bad. I don't trust anyone on the internet.
-
-## Secret
-
-[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+If you'd like to get in contact with me for some reason or another to bad. I don't trust the internet so fuck off.
