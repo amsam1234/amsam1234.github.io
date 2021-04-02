@@ -1,5 +1,7 @@
 ## Hello Interweb
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJm1YSkz_B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Welcome to this terrible website. It has been made by the one and only Sam. I will be adding some random junk in the future.
 
 ## About Me
@@ -20,6 +22,3 @@ If you would like to get in contact with me, to bad. I don't trust anyone on the
 ## Secret
 
 [Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJm1YSkz_B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
