@@ -1,4 +1,3 @@
-## Hello Interweb
 Welcome to this terrible website. It has been made by the one and only Sam. I will be adding some random junk in the future.
 
 ## About Me
