@@ -1,6 +1,6 @@
 ## Hello Surfer Of The Interweb
 
-Welcome to this terrible website. It has been made by the one and only Sam. I will be adding some random junk in the future.
+Welcome to this terrible website. It has been made by the one and only Sam. It will be use to put random shit out into the web.
 
 ## About Me
 
@@ -20,6 +20,10 @@ just do what I always do and start a project without ever finishing is.
 ## Some Recommendations
 
 Some good shows are Impractical Jokers, WKUK, and anything with Nathan Barnatt. Some good movies are Tropic Thunder and The Platform.
+
+## Funny Thing
+
+<amp-iframe width=640 height=649 sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" layout="responsive" resizable frameborder="0" src="https://www.redditmedia.com/r/okbuddyretard/comments/m4v7v2/jesse_mom_is_going_to_be_so_pissed/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark"> <amp-img layout="fill" src="https://rebed.redditmedia.com/assets/03657792c480fd6bbb7bef821c859742.svg" placeholder></amp-img> <div overflow>Click to expand</div> </amp-iframe>
 
 ## Contact
 
