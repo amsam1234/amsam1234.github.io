@@ -1,5 +1,5 @@
-<!DOCTYPE html
 <html>
-<p>Hello</p>
-</body>
-</html>
+  <body>
+  <p>Hello.</p>
+  </body>
+ </html>
