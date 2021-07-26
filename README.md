@@ -1,6 +1,6 @@
 <html>
   <body>
-  <p>This interwebsite is under construction.</p>
+  <h1>My personal knowledge on random odds and ends.</h1>
   </body>
     <body>
   <p>Coming soon.</p>
