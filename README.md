@@ -1,8 +1,8 @@
 <html style="background-color:red;">
-  <body style-"color:yellow">
-  <h1 style="text-align:center;">My personal knowledge on random odds and ends.</h1>
+  <body>
+  <h1 style="text-align:center;" style="color:yellow">My personal knowledge on random odds and ends.</h1>
   </body>
   <body>
-  <p style="text-align:center;">Coming soon.</p>
+  <p style="text-align:center;" style="color:yellow">Coming soon.</p>
   </body>
  </html>
