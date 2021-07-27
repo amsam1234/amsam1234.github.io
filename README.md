@@ -1,8 +1,8 @@
 <html style="background-color:red;">
   
-<body>
+<body style="background-color:red;">
   
-  <h1>Random Assorted Knowledge.</h1>
+  <h1 style="color:yellow">Random Assorted Knowledge.</h1>
   
 </body>
   
